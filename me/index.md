@@ -2,13 +2,13 @@
 layout: about
 ---
 
-Hello, my name is Micah Cowell. I am a self proclaimed web developer who likes the internet, hip hop, and fancy yo-yos.
+Hello, my name is Kyndrea Martinez. Co-Founder & CTO / Full-Stack Developer at [LEZAY](https://www.lezay.com). I like music, films, podcasts, and tacos (I am a native Texan so this is mandatory and also delicious).
 
 # What do you do?
-I make website and stuff. All the code I write is on my [Github](https://github.com/getmicah).
+I build stuff for the internet.
 
 # Who are your favorite artists?
-Currently I'm listening to a lot of James Blake and Kaytranada.
+Currently I'm listening to a lot of Natalia LaFourcade and a Spotify playlist I put together of a bunch of songs from my teenage years: [adolescence backwash](https://t.co/bsFpCjPUnv).
 
-# What programming languages do you use?
-When making websites I like using Javascript and Sass but I also like Python and bash for making linux scripts.
+# What languages/frameworks do you use?
+I frequently use: HTML / Haml, SCSS, JavaScript / CoffeeScript, Ruby on Rails, and Ember.js

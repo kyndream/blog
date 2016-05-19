@@ -1,7 +1,11 @@
-- name: Fatso
-  category: theme
-  url: https://github.com/getmicah/fatso
+- name: LEZAY
+  category:
+  url: https://www.lezay.com
 
-- name: Beam
-  category: theme
-  url: https://github.com/getmicah/beam
+- name: Ometria
+  category:
+  url: https://www.ometria.com
+
+- name: MAE Power Equipment
+  category:
+  url: http://www.maepower.com
