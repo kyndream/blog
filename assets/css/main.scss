@@ -119,6 +119,17 @@ ul {
             margin-top: 30px;
             margin-bottom: 5px;
         }
+
+        h2, h3, h4, h5 {
+          margin-bottom: 15px;
+          font-weight: 600;
+        }
+
+        blockquote {
+          margin-bottom: 15px;
+          font-style: italic;
+        }
+
         p {
             font-size: 1em;
             line-height: 150%;
